@@ -1,5 +1,6 @@
 nginx:1.20.2
-
+postgres:13.5
+redis:6.2.5
 
 
 #支持私库
